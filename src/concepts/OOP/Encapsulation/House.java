@@ -5,6 +5,7 @@ public class House {
     private String houseOwnerName, streetAddress; // declaring variables as private since we
     private int numOfBedrooms, numOfFloors; // don't want other classes to have access to these variables
 
+    // Constructor - DEFINE!!!!
     public House() {
         this.houseOwnerName = null;
         this.streetAddress = null;
